@@ -338,6 +338,28 @@ Portfolio
   font-size: 1.2em;
 }
 /*******************************************
+TECHNOLOGIES
+*******************************************/
+.technology{
+  color: #fff;
+  display: inline-block;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  padding: 5px 5px 5px 5px;
+  background: #428bcadb;
+  position: relative;
+  font-size: 1.2em;
+}
+/* .technologies:before{
+  content: "\f004";
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  position: absolute;
+  top: 6px;
+  left: 7px;
+} */
+/*******************************************
 MEDIA
 *******************************************/
 @media (min-width: 500px) {
